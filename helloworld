@@ -6,4 +6,25 @@ Taken from https://www.tutorialsteacher.com/javascript/script-tag
 ==> a function is placed in the head or function of the body and is executed 
     when a button is clicked.
 ==> scripts can also be placed as external files, with the .js extension.
-==>
+
+#First Script
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>JavaScript by Ishita</h2>
+
+<p id="demo"></p>
+
+<script>
+document.getElementById("demo").innerHTML = "Hello! this is popup from JavaScript!";
+</script>
+
+</body>
+</html> 
+
+Output
+
+JavaScript by Ishita
+Hello! this is popup from JavaScript!
