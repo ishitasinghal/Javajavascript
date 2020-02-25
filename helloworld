@@ -1,8 +1,9 @@
 Taken from https://www.tutorialsteacher.com/javascript/script-tag
 
-<script>
-            
-    //any script could be written here.
-            
-</script>
-
+==> the javascript code should be written in the <script> tag in HTML.
+==> there can be multiple scripts in the head and the body of HTML. 
+==> a JS function is a block of code which is executed when called.
+==> a function is placed in the head or function of the body and is executed 
+    when a button is clicked.
+==> scripts can also be placed as external files, with the .js extension.
+==>
