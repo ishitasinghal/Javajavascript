@@ -1,0 +1,22 @@
+This code simply displays the time and date.
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>My First JavaScript</h2>
+
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Date()">
+Know Date and Time.</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
+
+OUTPUT
+
+My First JavaScript
+Know Date and Time.        !this is displayed inside a button.
+Wed Feb 26 2020 09:57:05 GMT+0530 (India Standard Time)
